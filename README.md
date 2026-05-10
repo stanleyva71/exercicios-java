@@ -16,6 +16,7 @@ Aqui estão armazenados diversos exercícios, desafios e pequenos projetos desen
 - ✅ Programação Orientada a Objetos (POO)
 - ✅ Classes e objetos
 - ✅ Encapsulamento
+- ✅ Polimorfismo 
 - ✅ Entrada e saída de dados
 - ✅ Exercícios lógicos
 
